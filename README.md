@@ -29,12 +29,6 @@ I am Enes, I graduated from Computer Programming and I am currently studying Man
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=enesaydnn&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesaydnn&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enesaydnn&theme=tokyonight" alt="GitHub Streak" />
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=enesaydnn&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />

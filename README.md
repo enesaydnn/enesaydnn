@@ -1,46 +1,25 @@
 <div align="center">
 
-### ░▒▓█►─═ 𝕋ℍ𝔸ℕ𝕂𝕊 𝔽𝕆ℝ 𝕍𝕀𝕊𝕀𝕋𝕀ℕ𝔾! ═─◄█▓▒░
-
-
 </div>
 
 ```
-                            ░░░▒▒▓▓██████▓▓▒▒░░░
-                       ░░▒▒▓▓██ ENES AYDIN ██▓▓▒▒░░
-                            ░░░▒▒▓▓██████▓▓▒▒░░░
-                              ___
-                           .-'   `'.
-                          /         \
-                          |         ;
-                          |         |           ___.--,
-                 _.._     |0) ⚡(0) |    _.---'`__.-( (_.
-          __.--'`_.. '.__.\    '--. \_.-' ,.--'`     `""`
-         ( ,.--'`   ',__ /./;   ;, '.__.'`    __
-         _`) )  .---.__.' / |   |\   \__..--""  """--.,_
-        `---' .'.''-._.-'`_./  /\ '.  \ _.-~~~````~~~-._`-.__.'
-              | |  .' _.-' |  |  \  \  '.               `~---`
-               \ \/ .'     \  \   '. '-._)
-                \/ /        \  \    `=.__`~-.
-                / /\         `) )    / / `"".`\
-          , _.-'.'\ \        / /    ( (     / /
-           `--~`   ) )    .-'.'      '.'.  | (
-                  (/`    ( (`          ) )  '-;
-                   `      '-;         (-'
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+    ▓                                                                         ▓ 
+    ▓  ██╗    ██╗██╗  ██╗ █████╗ ████████╗███████╗    ██╗   ██╗██████╗        ▓ 
+    ▓  ██║    ██║██║  ██║██╔══██╗╚══██╔══╝██╔════╝    ██║   ██║██╔══██╗       ▓ 
+    ▓  ██║ █╗ ██║███████║███████║   ██║   ███████╗    ██║   ██║██████╔╝       ▓ 
+    ▓  ██║███╗██║██╔══██║██╔══██║   ██║   ╚════██║    ██║   ██║██╔═══╝        ▓ 
+    ▓  ╚███╔███╔╝██║  ██║██║  ██║   ██║   ███████║    ╚██████╔╝██║            ▓ 
+    ▓   ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝     ╚═════╝ ╚═╝            ▓ 
+    ▓                                                                         ▓                            
+    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
 ```
+
+---
 
 <div align="center">
 
-
-```
-█▀▀ █▄░█ █▀▀ █▀
-██▄ █░▀█ ██▄ ▄█
-
-▄▀█ █▄█ █▀▄ █ █▄░█
-█▀█ ░█░ █▄▀ █ █░▀█
-```
-
-</div>
 
 
 <p style="text-align: justify;">
@@ -52,23 +31,9 @@ Best regards,
 </p3>
 
 
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+![snake gif](https://raw.githubusercontent.com/enesaydnn/enesaydnn/output/github-contribution-grid-snake.svg)
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+
+
+
+</div>

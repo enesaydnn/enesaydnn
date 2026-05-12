@@ -52,12 +52,19 @@ Best regards,
 </p3>
 
 
-<<div align="center">
-  <img src="./assets/header-bw.gif" width="400">
-  <img src="./assets/banner-bw.gif" width="700">
-  <img src="./assets/snake-bw.svg" alt="Snake animation" />
-</div>
-
 <div align="center">
-  <img src="./assets/footer-bw.gif" width="1000">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-snake-bw-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-snake-bw.svg"
+    />
+    <img 
+      alt="github contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-snake-bw.svg"
+    />
+  </picture>
 </div>

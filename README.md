@@ -23,10 +23,11 @@ I am Enes, I graduated from Computer Programming and I am currently studying Man
 
 <!-- Mobile Development -->
 
-<img src="https://raw.githubusercontent.com/react-native-community/react-native-releases/main/ReactNativeLogos/ReactNativeLogo.png" alt="react native" width="40" height="40"/>&nbsp;
+<!-- Mobile Development -->
+
+<img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>&nbsp;
-
 
 <!-- Programming Languages -->
 

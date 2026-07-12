@@ -1,4 +1,4 @@
-# Hello 👋, I'm Enes Aydın
+# Hello, I'm Enes Aydın
 [![42 School](https://img.shields.io/badge/42_SCHOOL-enesaydi-black?style=for-the-badge&logo=42&logoColor=white)](https://github.com/enesaydnn)
 ### Full Stack Web Developer | Mobile Developer
 
